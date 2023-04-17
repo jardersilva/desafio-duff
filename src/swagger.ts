@@ -17,7 +17,7 @@ export const options = {
 
     servers: [
       {
-        url: 'https://desafio-4.jardersilva.com.br',
+        url: 'https://duff.onrender.com',
         description: 'API Documentation',
       },
       {
