@@ -18,10 +18,10 @@ Vamos executar o sistema
 
 ##### On-line
 
-[https://duff.onrender.com/docs/v1/](https://duff.onrender.com/docs/v1/)
+[Swagger da aplicação](https://duff.onrender.com/docs/v1/)
 O link acima disponibilzei afim de vermos o swagger de forma mais rápida
 <br /><br />
-[https://www.postman.com/bold-meadow-65414/workspace/duffapi/request/10998459-ca9c5b85-968e-4db1-b130-9fd7f1143b09](Playground)
+[playground](https://www.postman.com/bold-meadow-65414/workspace/duffapi/request/10998459-ca9c5b85-968e-4db1-b130-9fd7f1143b09)
 O link acima disponibilzei afim de vermos o Playground e os end-points e testa-los de forma mais rápida
 <br /><br />
 
