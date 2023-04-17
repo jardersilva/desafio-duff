@@ -20,8 +20,10 @@ Vamos executar o sistema
 
 [https://duff.onrender.com/docs/v1/](https://duff.onrender.com/docs/v1/)
 O link acima disponibilzei afim de vermos o swagger de forma mais rápida
+<br /><br />
 [https://www.postman.com/bold-meadow-65414/workspace/duffapi/request/10998459-ca9c5b85-968e-4db1-b130-9fd7f1143b09](Playground (Teste os end-points))
 O link acima disponibilzei afim de vermos o Playground e os end-points e testa-los de forma mais rápida
+<br /><br />
 
 Abaixo veremos outros métodos de executar a aplicação, nesse caso será necessario criar um banco de dados no mysql localmente ou remoto, mas se caso opte por fazer o deploy é necessario que o banco eseteja remotamente.
 
