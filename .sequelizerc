@@ -1,0 +1,13 @@
+const path = require('path');
+const dotenv = require('dotenv');
+
+dotenv.config({
+  path: process.env.NODE_ENV === 'test' ? '.env.test' : '.env',
+});
+
+module.exports = {
+  'config': process.env.DB_TYPE === 'sqlite' ? path.resolve('dist', 'config', 'databaseSqlite.js') : path.resolve('dist', 'config', 'databaseMysql.js'),
+  'models-path': path.resolve('dist', 'models'),
+  'seeders-path': path.resolve('dist', 'database', 'seeders'),
+  'migrations-path': path.resolve('dist', 'database', 'migrations'),
+};
