@@ -9,7 +9,6 @@ RUN yarn install
 COPY . .
 
 RUN npx yarn build
-RUN npx sequelize db:create
 RUN npx sequelize db:migrate
 
 CMD ["npm", "start"]
